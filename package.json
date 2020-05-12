@@ -1,7 +1,7 @@
 {
   "name": "corona-tracker",
   "version": "0.1.0",
-  "engine":{
+  "engine": {
     "npm": "6.4.1",
     "node": "v10.15.2"
   },
